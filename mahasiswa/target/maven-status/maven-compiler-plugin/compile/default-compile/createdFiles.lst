@@ -1,0 +1,5 @@
+com\farhan\sister\mahasiswa\repository\MahasiswaRepository.class
+com\farhan\sister\mahasiswa\service\MahasiswaService.class
+com\farhan\sister\mahasiswa\entity\Mahasiswa.class
+com\farhan\sister\mahasiswa\MahasiswaApplication.class
+com\farhan\sister\mahasiswa\controller\MahasiswaController.class
